@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div>
-    <img align="left" width="20px" src="https://github.com/coimbraleon/coimbraleon/blob/main/assets/001-telegram.png?raw=true" alt="fullstack developer animated image"/>
+    <img align="left" width="50px" src="https://github.com/coimbraleon/coimbraleon/blob/main/assets/001-telegram.png?raw=true" alt="fullstack developer animated image"/>
 </div>
 
