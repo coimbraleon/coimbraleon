@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Coimbraleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=coimbraleon)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <img align="left" width="20%" src="https://github.com/coimbraleon/coimbraleon/blob/main/assets/001-telegram.png?raw=true" alt="fullstack developer animated image"/>
+</div>
 
